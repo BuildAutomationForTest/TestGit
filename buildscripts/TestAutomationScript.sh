@@ -1,1 +1,1 @@
-ifconfig -at
+ifconfig -a
